@@ -38,3 +38,9 @@ description text,
 date timestamp with time zone default now(),
 receipt_url text
 )
+
+preview:
+<img width="1435" height="430" alt="Screenshot 2025-09-01 114950" src="https://github.com/user-attachments/assets/bb7dda43-88d1-4fb6-912f-68d4e31e6988" />
+<img width="1449" height="793" alt="Screenshot 2025-09-01 114941" src="https://github.com/user-attachments/assets/00149369-ed7c-45b4-bee6-7fa966cf67c9" />
+<img width="662" height="668" alt="Screenshot 2025-09-01 114922" src="https://github.com/user-attachments/assets/0d5bf937-ea7a-4721-b98c-342add062c8a" />
+
